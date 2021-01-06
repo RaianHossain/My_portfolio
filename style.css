@@ -1,3 +1,149 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    
+}
+.main-container{    
+    height: 3000px;
+}
+.navbar{
+    height: 80px;
+    margin-left: 4.5%;
+}
+.navbar ul li{
+    list-style: none;
+    float: left;
+    padding:10px
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
 h1{
-    color:orange
+    font-size: 50px;   
+    color:#363958;
+    font-family: 'Slabo 27px', serif;
+}
+
+.highlight{
+    color:#e62e00
+}
+p{
+    font-size: 20px;
+    line-height: 24px;
+    color: #3E3E3E;
+}
+#for_margin{
+    margin-bottom: 70px;
+}
+#for-padding{
+    padding-top: 100px;
+}
+.btn{
+    text-decoration: none;     
+    padding:25px 65px;
+    color: white; 
+    border-radius: 6px;
+    background-color: #751aff;
+    
+}
+h2{
+    font-size: 48px;
+    color:#363958;
+}
+#about-padding{
+    margin-left: 200px;
+    margin-top:120px;
+}
+#about-padding p{
+    width: 451px;
+    height: 132px;
+    margin-bottom: 70px;
+}
+.top-section{
+    height: 690px;
+}
+.second-section{
+    height: 800px;
+}
+.third-section{
+    height: 1000px;
+    background-color: #F5F5F5;
+}
+.third-section h1{
+    text-align: center;
+    padding-top: 105px;
+    margin-bottom: 95px;
+}
+.third-section h1 span{
+    color: coral;
+}
+
+.work-profile{
+    width: 24.5%;
+    float: left;
+    margin-left: 5%;
+    background-color: white;
+    padding:1%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.work-profile img{
+    width: 100%;
+}
+.last-section{
+    height: 500px;
+}
+
+.last-section img{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+.last-section{
+    height: 500px;    
+}
+
+.inq{
+    display: block;
+    height: 30%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-image: url("shapes/Group_33094_1.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+h3{
+    font-size: 25px;
+    color: white;
+    padding: 5%;
+    float: left;
+    width: 60%;
+}
+#last-btn{
+    float: left;
+    text-align: right;
+    background-color: indianred;
+    margin-top: 40px;
+}
+.staycon{
+    text-align: center;
+    margin-top: 70px;
+}
+.mail{
+    text-align: center;
 }
