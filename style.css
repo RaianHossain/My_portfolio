@@ -4,13 +4,16 @@ body{
     margin: 0px;
     
 }
+
 .main-container{    
     height: 3000px;
 }
+
 .navbar{
     height: 80px;
     margin-left: 4.5%;
 }
+
 .navbar ul li{
     list-style: none;
     float: left;
@@ -24,9 +27,11 @@ body{
     padding-left: 2%;
     
 }
+
 .half-width img{
     width: 100%;
 }
+
 h1{
     font-size: 50px;   
     color:#363958;
@@ -36,17 +41,21 @@ h1{
 .highlight{
     color:#e62e00
 }
+
 p{
     font-size: 20px;
     line-height: 24px;
     color: #3E3E3E;
 }
+
 #for_margin{
     margin-bottom: 70px;
 }
+
 #for-padding{
     padding-top: 100px;
 }
+
 .btn{
     text-decoration: none;     
     padding:25px 65px;
@@ -55,6 +64,7 @@ p{
     background-color: #751aff;
     
 }
+
 h2{
     font-size: 48px;
     color:#363958;
@@ -63,26 +73,31 @@ h2{
     margin-left: 200px;
     margin-top:120px;
 }
+
 #about-padding p{
     width: 451px;
     height: 132px;
     margin-bottom: 70px;
 }
+
 .top-section{
     height: 690px;
 }
 .second-section{
     height: 800px;
 }
+
 .third-section{
     height: 1000px;
     background-color: #F5F5F5;
 }
+
 .third-section h1{
     text-align: center;
     padding-top: 105px;
     margin-bottom: 95px;
 }
+
 .third-section h1 span{
     color: coral;
 }
@@ -96,9 +111,11 @@ h2{
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
 }
+
 .work-profile img{
     width: 100%;
 }
+
 .last-section{
     height: 500px;
 }
@@ -127,6 +144,7 @@ h2{
     background-size: cover;
     border-radius: 15px;
 }
+
 h3{
     font-size: 25px;
     color: white;
@@ -134,26 +152,28 @@ h3{
     float: left;
     width: 60%;
 }
+
 #last-btn{
     float: left;
     text-align: right;
     background-color: indianred;
     margin-top: 40px;
 }
+
 .staycon{
     text-align: center;
     margin-top: 70px;
 }
+
 .mail{
     text-align: center;
 }
+
 .last-section a img{
     width: 50px;
     height: 50px;
     margin-left: 5px;
-    float: left;
-    
-    
+    float: left; 
 }
 
 .ic-div{
